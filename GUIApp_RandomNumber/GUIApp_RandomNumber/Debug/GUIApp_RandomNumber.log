@@ -1,0 +1,27 @@
+﻿Build started 3/6/2017 9:17:42 PM.
+     1>Project "c:\Users\ryan chen\documents\visual studio 2010\Projects\GUIApp_RandomNumber\GUIApp_RandomNumber\GUIApp_RandomNumber.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\GUIApp_RandomNumber.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt MyForm.cpp /clr:nostdlib 
+         MyForm.cpp
+         All outputs are up-to-date.
+       CoreResGen:
+         "C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\NETFX 4.0 Tools\resgen.exe" /useSourcePath /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /compile MyForm.resx,Debug\GUIApp_RandomNumber.MyForm.resources
+         Processing resource file "MyForm.resx" into "Debug\GUIApp_RandomNumber.MyForm.resources".
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\ryan chen\documents\visual studio 2010\Projects\GUIApp_RandomNumber\Debug\GUIApp_RandomNumber.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Debug\GUIApp_RandomNumber.MyForm.resources /MANIFEST /ManifestFile:"Debug\GUIApp_RandomNumber.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\ryan chen\documents\visual studio 2010\Projects\GUIApp_RandomNumber\Debug\GUIApp_RandomNumber.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\MyForm.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         GUIApp_RandomNumber.vcxproj -> c:\users\ryan chen\documents\visual studio 2010\Projects\GUIApp_RandomNumber\Debug\GUIApp_RandomNumber.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"c:\users\ryan chen\documents\visual studio 2010\Projects\GUIApp_RandomNumber\Debug\GUIApp_RandomNumber.exe;#1" /manifest Debug\GUIApp_RandomNumber.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\GUIApp_RandomNumber.unsuccessfulbuild".
+         Touching "Debug\GUIApp_RandomNumber.lastbuildstate".
+     1>Done Building Project "c:\Users\ryan chen\documents\visual studio 2010\Projects\GUIApp_RandomNumber\GUIApp_RandomNumber\GUIApp_RandomNumber.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.76
